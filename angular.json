@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "watchaTokino"
+    }
+  },
+  "defaultProject": "watchaTokino",
+  "cli": {
+    "analytics": false
+  }
 }
